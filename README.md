@@ -1,5 +1,6 @@
-<include a CircleCI status badge, here>
+### Circleci Badge Status
 
+[![CircleCI Build Status](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://app.circleci.com/pipelines/github/Clifford18/DevOps_Microservices)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
