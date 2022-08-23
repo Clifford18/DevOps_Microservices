@@ -1,6 +1,6 @@
 ### Circleci Badge Status
 
-[![CircleCI Build Status](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Clifford18/project-ml-microservice-kubernetes/tree/master)
+[![CircleCI Build Status](https://circleci.com/gh/circleci/circleci-docs.svg?style=shield)](https://app.circleci.com/pipelines/github/Clifford18/project-ml-microservice-kubernetes)
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Clifford18/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Clifford18/project-ml-microservice-kubernetes/tree/master)
 ## Project Overview
