@@ -8,7 +8,9 @@ COPY . app.py /app/
 ## Step 3:
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
-RUN pip install --no-cache-dir --upgrade pip &&pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip &&pip install --no-cache-dir -r requirements.txt 
+RUN sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64
+RUN sudo chmod +x /bin/hadolint
 ## Step 4:
 # Expose port 80
 EXPOSE 80
